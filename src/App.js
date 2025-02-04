@@ -5,22 +5,22 @@ import AlbumView from "./components/AlbumView";
 
 const albums = [
   {
-    id: "sunset-over-the-hills",
+    id: "9-20-24",
     src: "image1.jpg",
-    title: "Sunset Over the Hills",
-    description: "Captured during a late summer hike, this photo reflects the serene blend of warm hues and natural silhouettes.",
+    title: "Album 1: 9/20/2024",
+    description: "These photos were taken at an open space preserve not too far from Gunn. I enjoy visiting this place to relax, get some exercise, and appreciate the beauty of nature.",
   },
   {
-    id: "whispers-of-the-forest",
+    id: "3-24-2024",
     src: "image2.jpg",
-    title: "Whispers of the Forest",
-    description: "An intimate shot capturing the intricate details of moss-covered bark, emphasizing the quiet resilience of nature.",
+    title: "Album 2: 3/24/2024",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
-    id: "reflections",
+    id: "1-15-2024",
     src: "image3.jpg",
-    title: "Reflections",
-    description: "A still lake mirroring the dramatic sky above, illustrating the symmetry and balance in natural landscapes.",
+    title: "Album 3: 1/15/2024",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
 ];
 

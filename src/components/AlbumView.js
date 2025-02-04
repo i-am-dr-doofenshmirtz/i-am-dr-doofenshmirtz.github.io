@@ -3,19 +3,19 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useState } from "react";
 
 const albums = {
-  "sunset-over-the-hills": {
-    title: "Sunset Over the Hills",
-    intro: "This album captures the beauty of late summer hikes, showcasing breathtaking sunsets over rolling landscapes.",
+  "9-20-24": {
+    title: "Album 1: 9/20/2024",
+    intro: "These photos were taken at an open space preserve not too far from Gunn. I enjoy visiting this place to relax, get some exercise, and appreciate the beauty of nature.",
     images: ["image1.jpg", "image1-1.jpg", "image1-2.jpg"],
   },
-  "whispers-of-the-forest": {
-    title: "Whispers of the Forest",
-    intro: "A deep dive into the quiet resilience of nature, focusing on intricate textures and serene woodland moments.",
+  "3-24-2024": {
+    title: "Album 2: 3/24/2024",
+    intro: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images: ["image2.jpg", "image2-1.jpg", "image2-2.jpg"],
   },
-  "reflections": {
-    title: "Reflections",
-    intro: "A collection exploring symmetry and balance in nature, featuring stunning water reflections and dynamic skies.",
+  "1-15-2024": {
+    title: "Album 3: 1/15/2024",
+    intro: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images: ["image3.jpg", "image3-1.jpg", "image3-2.jpg"],
   },
 };
