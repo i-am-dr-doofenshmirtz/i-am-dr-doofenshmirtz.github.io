@@ -17,10 +17,10 @@ const albums = [
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
-    id: "1-15-2024",
+    id: "4-3-2025",
     src: "image3.jpg",
-    title: "Album 3: 1/15/2024",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    title: "3 Film Scans: 1/15/2024",
+    description: "I took these photos on a Canon EOS Rebel G camera from my photography class. I tried to focus on three elements when taking these photos: light, shadow, and frame.",
   },
 ];
 
