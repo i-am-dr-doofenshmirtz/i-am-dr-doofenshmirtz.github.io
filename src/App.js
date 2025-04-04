@@ -19,7 +19,7 @@ const albums = [
   {
     id: "4-3-2025",
     src: "image3.jpg",
-    title: "3 Film Scans: 1/15/2024",
+    title: "3 Film Scans: 4/3/2025",
     description: "I took these photos on a Canon EOS Rebel G camera from my photography class. I tried to focus on three elements when taking these photos: light, shadow, and frame.",
   },
 ];

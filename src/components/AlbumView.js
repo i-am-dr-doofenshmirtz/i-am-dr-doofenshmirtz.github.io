@@ -14,7 +14,7 @@ const albums = {
     images: ["image2.jpg", "image2-1.jpg", "image2-2.jpg"],
   },
   "4-3-2025": {
-    title: "3 Film Scans: 1/15/2024",
+    title: "3 Film Scans: 4/3/2025",
     intro: "I took these photos on a Canon EOS Rebel G camera from my photography class. I tried to focus on three elements when taking these photos: light, shadow, and frame.",
     images: ["image3.jpg", "image3-1.jpg", "image3-2.jpg"],
   },
