@@ -7,20 +7,38 @@ const albums = [
   {
     id: "9-20-24",
     src: "image1.jpg",
-    title: "Album 1: 9/20/2024",
+    title: "Late Afternoon Hikes",
     description: "These photos were taken at an open space preserve not too far from Gunn. I enjoy visiting this place to relax, get some exercise, and appreciate the beauty of nature.",
   },
   {
     id: "3-24-2024",
     src: "image2.jpg",
-    title: "Album 2: 3/24/2024",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    title: "The Quiet Looms",
+    description: "I took these photos with the intention of capturing a quiet and unsettling feeling.",
   },
   {
     id: "4-3-2025",
     src: "image3.jpg",
-    title: "3 Film Scans: 4/3/2025",
-    description: "I took these photos on a Canon EOS Rebel G camera from my photography class. I tried to focus on three elements when taking these photos: light, shadow, and frame.",
+    title: "Film Scans",
+    description: "I took these photos on a Canon EOS Rebel G camera from my photography class. When taking these photos, I tried to focus on three elements: light, shadow, and frame.",
+  },
+  {
+    id: "9-10-2024",
+    src: "image4.jpg",
+    title: "Abstraction",
+    description: "I took these photos on the Gunn High School campus. With these abstract photos, I tried to explore different elements (e.g. color, form, and texture) to evoke different emotions.",
+  },
+  {
+    id: "8-29-2024",
+    src: "image5.jpg",
+    title: "Cracks",
+    description: "I took these photos on the Gunn High School campus. With these photos, I tried to evoke emotions of decay and transience.",
+  },
+  {
+    id: "1-15-2024",
+    src: "image6.jpg",
+    title: "Ruggged Beauty",
+    description: "I took these photos back in winter and in a heavily forested area to get that sort of lighting that is synonymous with the imperfections of nature.",
   },
 ];
 

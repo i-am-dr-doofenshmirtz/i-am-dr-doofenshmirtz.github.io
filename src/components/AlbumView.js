@@ -4,19 +4,34 @@ import { useState } from "react";
 
 const albums = {
   "9-20-24": {
-    title: "Album 1: 9/20/2024",
+    title: "Late Afternoon Hikes",
     intro: "These photos were taken at an open space preserve not too far from Gunn. I enjoy visiting this place to relax, get some exercise, and appreciate the beauty of nature.",
-    images: ["image1.jpg", "image1-1.jpg", "image1-2.jpg"],
+    images: ["image1.jpg", "image1-1.jpg", "image1-2.jpg", "image1-3.jpg", "image1-4.jpg", "image1-5.jpg"],
   },
   "3-24-2024": {
-    title: "Album 2: 3/24/2024",
-    intro: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    images: ["image2.jpg", "image2-1.jpg", "image2-2.jpg"],
+    title: "The Quiet Looms",
+    intro: "I took these photos with the intention of capturing a quiet and unsettling feeling.",
+    images: ["image2.jpg", "image2-1.jpg", "image2-2.jpg", "image2-3.jpg", "image2-4.jpg", "image2-5.jpg", "image2-6.jpg"],
   },
   "4-3-2025": {
-    title: "3 Film Scans: 4/3/2025",
-    intro: "I took these photos on a Canon EOS Rebel G camera from my photography class. I tried to focus on three elements when taking these photos: light, shadow, and frame.",
-    images: ["image3.jpg", "image3-1.jpg", "image3-2.jpg"],
+    title: "Film Scans",
+    intro: "I took these photos on a Canon EOS Rebel G camera from my photography class. When taking these photos, I tried to focus on three elements: light, shadow, and frame.",
+    images: ["image3.jpg", "image3-1.jpg", "image3-2.jpg", "image3-3.jpg", "image3-4.jpg", "image3-5.jpg"],
+  },
+  "9-10-2024": {
+    title: "Abstraction",
+    intro: "I took these photos on the Gunn High School campus. With these abstract photos, I tried to explore different elements (e.g. color, form, and texture) to evoke different emotions.",
+    images: ["image4.jpg", "image4-1.jpg", "image4-2.jpg", "image4-3.jpg", "image4-4.jpg"],
+  },
+  "8-29-2024": {
+    title: "Cracks",
+    intro: "I took these photos on the Gunn High School campus. With these photos, I tried to evoke emotions of decay and transience.",
+    images: ["image5.jpg", "image5-1.jpg", "image5-2.jpg", "image5-3.jpg", "image5-4.jpg", "image5-5.jpg"],
+  },
+  "1-15-2024": {
+    title: "Rugged Beauty",
+    intro: "I took these photos back in winter and in a heavily forested area to get that sort of lighting that is synonymous with the imperfections of nature.",
+    images: ["image6.jpg", "image6-1.jpg", "image6-2.jpg", "image6-3.jpg", "image6-4.jpg"],
   },
 };
 
